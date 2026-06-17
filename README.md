@@ -1,6 +1,6 @@
 
 <h1>¡Hola!, Mi nombre es Rony Alvarez</h1>
-![GIF de Marín](./assets/a8ae41b8667869c2312ba7944d106a45.gif)
+<img src="./assets/a8ae41b8667869c2312ba7944d106a45.gif" alt="GIF de Marín">
 <p>Desarrollador Fullstack y Soporte técnico</p>
 <h2>🚀Herramientas que puedo manejar </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
