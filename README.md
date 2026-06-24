@@ -9,7 +9,7 @@
  ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%2F%2F+USAC+%F0%9F%87%AC%F0%9F%87%B9;Building+for+the+Guatemalan+market;React+%7C+TypeScript+%7C+Node.js+%7C+Arduino;System+online.+Ready+to+deploy.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%2F%2F+USAC+%F0%9F%87%AC%F0%9F%87%B9;Building+for+the+Guatemalan+market;React+%7C+TypeScript+%7C+Node.js+%7C+Python;System+online.+Ready+to+deploy.)
 
 <img src="./assets/a8ae41b8667869c2312ba7944d106a45.gif" width="180" style="border: 2px solid #00FFCC; border-radius: 8px;" alt="Rony Marin GIF"/>
 
