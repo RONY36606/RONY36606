@@ -132,12 +132,7 @@ Plataforma de e-commerce construida con React + Vite + TypeScript + Hono + Supab
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║   "The street finds its own uses for things" ║
-║                  — William Gibson            ║
-╚══════════════════════════════════════════════╝
-```
+
 
 *Sistema iniciado. Listo para el siguiente deploy.*
 
